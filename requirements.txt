@@ -1,2 +1,3 @@
 langchain
 llama-cpp-python
+langchain_experimental
